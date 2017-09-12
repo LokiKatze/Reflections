@@ -9,4 +9,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-Forking is pretty much like cloning a repository but is only done on GitHub. Multiple users can then collaborate on it. Cloning is a copy of a repository from GitHub onto a local repository. Branches are parts of a repository that can be pushed or pulled. I would use the fork method to efficiently create my own version of another user's repository, collaborate with other users, and to give credit to the original user's repository.  
+	Forking is pretty much like cloning a repository but is only done on GitHub. Multiple users can then collaborate on it. Cloning is a copy of a repository from GitHub onto a local repository. Branches are parts of a repository that can be pushed or pulled. I would use the fork method to efficiently create my own version of another user's repository, collaborate with other users, and to give credit to the original user's repository.  
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	I would be able to work offline on the most recent state of that remote.
