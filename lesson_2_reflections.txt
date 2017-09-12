@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository using the command "git init", it creates a git repository under the specified folder. This is necessary to have a history of changes, otherwise known as commits, as the code is modified.
