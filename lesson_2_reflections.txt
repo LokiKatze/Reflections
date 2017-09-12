@@ -1,3 +1,17 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When I initialize a repository using the command "git init", it creates a git repository under the specified folder. This is necessary to have a history of changes, otherwise known as commits, as the code is modified.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to see where each branch is located and to understand the structure
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful by allowing me to create different versions of a file, while maintaining a master file. I would then be able to see commits within each version. This keeps everything organized. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together combines codes or versions together. It's represented in the diagram as becoming the master version.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros of automatic merging is that Git can automatically add code from one version to the other "master" version. Always doing merges manually could be a hassle though it might be more manageable depending on how often changes are made. 
