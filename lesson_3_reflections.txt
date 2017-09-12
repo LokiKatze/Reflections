@@ -1,1 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
 
+    A remote repository allows me to collaborate and share my work with others
